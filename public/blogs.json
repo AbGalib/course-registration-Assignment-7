@@ -1,0 +1,75 @@
+[
+    {
+      "id": "1",
+      "cover_picture": "https://i.ibb.co/ftLTMhW/hitesh-choudhary-p-Mnw5-BSZYs-A-unsplash.jpg",
+      "title": "Lorem Ipsum",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 100,
+      "reading_time": 5
+    },
+    {
+      "id": "2",
+      "cover_picture": "https://i.ibb.co/4RQgJ69/trust-tru-katsande-3neouxmz-Ihg-unsplash.jpg",
+      "title": "Dolor Sit Amet",
+      "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 130,
+      "reading_time": 3
+    },
+    {
+      "id": "3",
+      "cover_picture": "https://i.ibb.co/b5z1jqm/chris-liverani-NDfqqq-7-QWM-unsplash.jpg",
+      "title": "Consectetur Adipiscing",
+      "short_description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 140,
+      "reading_time": 4
+    },
+    {
+      "id": "4",
+      "cover_picture": "https://i.ibb.co/f1Nr7vq/kelly-sikkema-1-RZL8-BGBM-unsplash.jpg",
+      "title": "Sed Do Eiusmod",
+      "short_description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 110,
+      "reading_time": 6
+    },
+    {
+      "id": "5",
+      "cover_picture": "https://i.ibb.co/x1mrs5R/samantha-borges-Ee-S69-TTPQ18-unsplash.jpg",
+      "title": "Eiusmod Tempor",
+      "short_description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 120,
+      "reading_time": 6
+    },
+    {
+      "id": "6",
+      "cover_picture": "https://i.ibb.co/f1Nr7vq/kelly-sikkema-1-RZL8-BGBM-unsplash.jpg",
+      "title": "Labore Et Dolore",
+      "short_description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 125,
+      "reading_time": 7
+    },
+    {
+      "id": "7",
+      "cover_picture": "https://i.ibb.co/JKG7gxJ/campaign-creators-k-Q4t-Bkl-JI-unsplash.jpg",
+      "title": "Magnam Aliquam",
+      "short_description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 115,
+      "reading_time": 5
+    },
+    {
+      "id": "8",
+      "cover_picture": "https://i.ibb.co/x1mrs5R/samantha-borges-Ee-S69-TTPQ18-unsplash.jpg",
+      "title": "Voluptatem Sequi",
+      "short_description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+      "price": 135,
+      "reading_time": 4
+    },
+    {
+      "id": "9",
+      "cover_picture": "https://i.ibb.co/6gchSFY/nick-morrison-FHnnjk1-Yj7-Y-unsplash.jpg",
+      "title": "Numquam Eiusmod",
+      "short_description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 130,
+      "reading_time": 2
+    }
+  ]
+  
